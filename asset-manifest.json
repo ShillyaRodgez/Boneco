@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Boneco/static/js/main.c60fa41f.js",
+    "main.js": "/Boneco/static/js/main.5d2c4a7f.js",
     "static/js/583.867cc2b1.chunk.js": "/Boneco/static/js/583.867cc2b1.chunk.js",
     "static/js/319.5449352d.chunk.js": "/Boneco/static/js/319.5449352d.chunk.js",
     "index.html": "/Boneco/index.html",
-    "main.c60fa41f.js.map": "/Boneco/static/js/main.c60fa41f.js.map",
+    "main.5d2c4a7f.js.map": "/Boneco/static/js/main.5d2c4a7f.js.map",
     "583.867cc2b1.chunk.js.map": "/Boneco/static/js/583.867cc2b1.chunk.js.map",
     "319.5449352d.chunk.js.map": "/Boneco/static/js/319.5449352d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c60fa41f.js"
+    "static/js/main.5d2c4a7f.js"
   ]
 }
